@@ -1,0 +1,13 @@
+
+.videos-container,
+.playlists-container{
+}
+.video,
+.playlist {
+    display: inline-block;
+}
+.videos-container  img,
+.playlists-container  img {
+    max-height: 250px;
+    max-width: 250px;
+}
